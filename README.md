@@ -1,4 +1,4 @@
-# Project Summary
+# Overview
 
 This project involved working with a large dataset of 2.2 million records and 150 columns. Through preprocessing, the feature set was reduced by approximately 65%, significantly optimizing the data without sacrificing model performance.
 
